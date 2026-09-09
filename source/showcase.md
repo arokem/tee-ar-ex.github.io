@@ -60,8 +60,7 @@ CSD (DET), and Probabilistic Particle Filtering CSD (PROB).
 The showcase figures (the whole-brain ensemble and the tracking algorithm
 bundles above) are rendered programmatically using FURY with axial and
 mid-sagittal reference slices. The figure generation script is available on
-[GitHub](https://github.com/tee-ar-ex/tee-ar-ex.github.io/blob/main/source/_static/scripts/generate_showcase_figure.py)
-in the `source/_static/scripts/` folder.
+GitHub as [`generate_showcase_figure.py`](https://github.com/tee-ar-ex/tee-ar-ex.github.io/blob/main/source/_static/scripts/generate_showcase_figure.py).
 
 Because tracking algorithm identifiers (`algo`) and Convex Optimization Modeling
 for Microstructure Informed Tractography (COMMIT) signal weights (`commit_weights`)

@@ -115,9 +115,16 @@ def render_algo_bundles(
         algo_code,
     )
 
-    all_grp_indices = np.concatenate(
-        [trx.groups[k] for k in trx.groups.keys() if len(trx.groups[k]) > 0]
-    )
+    non_empty_groups = [
+        trx.groups[k] for k in trx.groups.keys() if len(trx.groups[k]) > 0
+    ]
+    if not non_empty_groups:
+        logging.warning(
+            "No non-empty groups found; skipping %s bundles.", algo_name
+        )
+        return
+
+    all_grp_indices = np.concatenate(non_empty_groups)
     unique_grp_indices = np.unique(all_grp_indices)
 
     algo = trx.data_per_streamline["algo"]
