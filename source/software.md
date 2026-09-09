@@ -80,6 +80,12 @@ framework {cite:p}`Avants2014-ci`. See [this PR](https://github.com/InsightSoftw
 framework for medical image processing and visualisation {cite:p}`Tournier2019-cq`.
 Integration of TRX support is currently in progress (in [this PR](https://github.com/MRtrix3/mrtrix3/pull/3415)).
 
+### ExploreDTI
+
+[ExploreDTI](https://www.exploredti.com/) is a graphical toolbox, for
+exploratory diffusion (tensor) MRI and fiber tractography. TRX support will be
+included in the upcoming version of the software.
+
 ## Cloud platforms and web applications
 
 ### brainlife.io
