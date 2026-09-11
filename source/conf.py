@@ -19,6 +19,7 @@ extensions = [
     "myst_parser",
     "sphinxcontrib.bibtex",
     "sphinx_design",
+    "sphinx_iframes",
     ]
 
 bibtex_bibfiles = ['references.bib']
