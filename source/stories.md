@@ -12,3 +12,8 @@ is enabling use-cases and new approaches that were not possible before
 ## Chris Rorden: Visualizing anatomical structures with niivue and real-time browser-based tractography with dwi2trx
 
 <iframe src="https://www.youtube.com/embed/OYd4T429Gq4" title="Chris Rorden: Visualizing anatomical structures with niivue and real-time browser-based tractography with dwi2trx"></iframe>
+
+## Matt Cieslak: Seeing it all together with TRXViz
+
+<iframe src="https://youtu.be/ZwWXcYjBIxc" title="Matt Cieslak: Seeing it all together with TRXViz"></iframe>
+
