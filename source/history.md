@@ -35,7 +35,7 @@ through technical developments.
 - **OHBM 2023** — progress presented at the Open Science Room
 - **Tract Anat Retreat, Corsica, 2024** — presented and discussed at length
 - **DIPY online workshops, 2025 and 2026** — presented to trainees
-- **BRAIN CONNECTS gathering, Austin TX, 2025** — presented to the CONNECT project teams
+- **BRAIN CONNECTS gathering, Austin TX, 2025** — presented to the CONNECTS project teams
 
 ### Institutional adoption
 
